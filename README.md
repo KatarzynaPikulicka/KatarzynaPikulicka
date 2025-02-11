@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Kasia 👋
 
-<!--
-**KatarzynaPikulicka/KatarzynaPikulicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎀 About Me
+I'm a passionate **Software Developer** with a strong focus on **Java** and **web technologies (HTML/CSS/JS with React)**. In addition to coding, I have a deep interest in **UX/UI design** and **photography**, which allows me to create visually appealing and user-friendly applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Programming Languages:** Java, JavaScript, HTML, CSS
+- **Frontend:** React
+- **Backend:** Spring Boot
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, Figma, Canva
+- **Other Interests:** UX/UI, graphic design, photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📸 Photography & UX/UI Passion
+Beyond coding, I have experience in **photography and design**, bringing an eye for aesthetics and usability into my development work. My goal is to craft intuitive interfaces that provide a seamless user experience.
+
+## 🔗 Connect with Me
+- [LinkedIn](www.linkedin.com/in/katarzyna-pikulicka)
+
+Let's build something amazing together! 🚀
+
+
